@@ -57,7 +57,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: ../images/representing.jpg');
+  background-image: url('../images/representing.jpg');
 }
 
 .sub_page .hero_area {
