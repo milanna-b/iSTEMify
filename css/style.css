@@ -747,7 +747,7 @@ a:focus {
 }
 
 .contact_section .detail-box {
-  background-image: 'images/typing-hands');
+  background-image: url('images/typing-hands');
   color: #ffffff;
   padding: 140px 15%;
   text-align: center;
