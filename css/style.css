@@ -58,6 +58,7 @@ body {
 .hero_area {
   height: 100vh;
   background-image: url('../images/representing.jpg');
+  background-repeat: no-repeat;
 }
 
 .sub_page .hero_area {
@@ -703,6 +704,7 @@ a:focus {
 
 .contact_section .detail-box {
   background-image: url('../images/typing-hands.jpg');
+  background-repeat: no-repeat;
   color: #ffffff;
   padding: 140px 15%;
   text-align: center;
