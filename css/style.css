@@ -58,8 +58,6 @@ body {
 .hero_area {
   height: 100vh;
   background-image: url('../images/representing.jpg');
-  background-repeat: no-repeat;
-  background-size: cover; 
 }
 
 .sub_page .hero_area {
@@ -311,17 +309,9 @@ a:focus {
   background-image: url('../images/left-arrow.png);
 }
 
-.slider_section .carousel-control-prev:hover {
-  background-image: url('../images/left-arrow-blue.png);
-}
-
 .slider_section .carousel-control-next {
   top: 62%;
   background-image: url('../images/right-arrow.png);
-}
-
-.slider_section .carousel-control-next:hover {
-  background-image: url('../images/right-arrow-blue.png);
 }
 
 .slider_section .carousel-indicators {
@@ -750,8 +740,6 @@ a:focus {
 
 .contact_section .detail-box {
   background-image: url('../images/typing-hands.jpg');
-  background-size: cover; 
-  background-repeat: no-repeat;
   color: #ffffff;
   padding: 140px 15%;
   text-align: center;
